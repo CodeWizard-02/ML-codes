@@ -1,1 +1,1 @@
-Codes and Resources for Machine learning
+This repository contains my practice codes on Machine learning with Scikit-learn in Python.
